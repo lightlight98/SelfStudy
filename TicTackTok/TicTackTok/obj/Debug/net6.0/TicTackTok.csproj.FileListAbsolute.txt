@@ -1,0 +1,14 @@
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.AssemblyInfoInputs.cache
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.AssemblyInfo.cs
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.csproj.CoreCompileInputs.cache
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\bin\Debug\net6.0\TicTackTok.exe
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\bin\Debug\net6.0\TicTackTok.deps.json
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\bin\Debug\net6.0\TicTackTok.runtimeconfig.json
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\bin\Debug\net6.0\TicTackTok.dll
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\bin\Debug\net6.0\TicTackTok.pdb
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.dll
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\refint\TicTackTok.dll
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.pdb
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\TicTackTok.genruntimeconfig.cache
+C:\Users\lee001\Desktop\my\TicTackTok\TicTackTok\obj\Debug\net6.0\ref\TicTackTok.dll
